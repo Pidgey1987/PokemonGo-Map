@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "testing",
+    "owner": "me",
+    "description": "blah"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "me"
+  },
+  "location": {
+    "organisation": "Pidgey1987",
+    "repo": "PokemonGo-Map",
+    "branch": "master",
+    "model": "testing"
+  }
+}
